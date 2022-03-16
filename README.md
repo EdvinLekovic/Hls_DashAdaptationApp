@@ -2,7 +2,7 @@
 
 The app is made using Svelte.js for frontend part with bootstrap and on backend part is Java Spring Boot.
 
-You can transform video with using this parameters:
+You transform your video with ffmpeg and with using this parameters:
 
 * Frame size (WxH)
 * Frames per second (fps)
